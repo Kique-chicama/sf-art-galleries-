@@ -1,4 +1,4 @@
-SF Art Events 2015
+:star2: SF Art Events 2015 :star2: 
 ==============
 | Event | Where | When | Link |
 | ----- | ----  | ---- | ---- |
@@ -7,6 +7,7 @@ SF Art Events 2015
 | Trap x Art Tribute: Erykah Badu | 111 Minna Gallery | January 24 @ 10:30 pm | http://www.111minnagallery.com/event/trap-x-art-tribute-erykah-badu/ | 
 | Dream Away | 111 Minna Gallery | Friday, May 1st 2015 |  http://www.111minnagallery.com/dream-away-jason-mitchell-solo-show/ | 
 | Keith Haring | de Young Museum | Jan 10 - Feb 15 | https://deyoung.famsf.org/haring | 
+| 
 
 
 
